@@ -20,6 +20,8 @@ What is <ins>NOT</ins> in here:
 - pvp builds to use in raids
 - team composition recommendations
 
+> If there's is something in this guide that you feel needs more explanation, message me in discord: nova_nova.
+
 <details>
 <summary><strong>About me</strong></summary>
 My name is nova and I have 13,715 hours in this game <i>so far</i>. Most of my time are spent in open world pvp servers where castle raiding is the ultimate test of skill. I have built thousands of castles throughout all versions of the game, and played and hosted hundreds and hundreds of raid practices. At the moment, I spend my time managing my server, <a href="https://discord.gg/AAbPDd6ynh">CASA'NOVA</a>, and participating at raid practices in <a href="https://discord.gg/varena">V Arena</a>.<br/><br/>

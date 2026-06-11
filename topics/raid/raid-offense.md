@@ -130,8 +130,8 @@ Counterplays:
 
 ## Common Attacker Misplays
 
-- Letting them repair for free
-- Not preparing multiple doors for rebreach
+- Letting them repair without any contest
+- Not lowering multiple doors for rebreach
 - Not preparing golems for rebreach
 - Bringing a key too early and losing it
 - Not respecting the servants

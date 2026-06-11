@@ -93,6 +93,8 @@ Counterplays:
 
 Take out at least one of the attackers by locking them inside your castle. Easily done using Twinblade E + Reaper Q. After locking an enemy inside, it's often best to take the fight outside. This allows you to force a favorable engagement while, more importantly, eliminating any spawned golems before they can threaten your castle. No golem = not a raid.
 
+There's a trick with an opened double-hinged door and a castle heart wherein you can simply do Twinblade E on anyone close enough and they will be stuck without needing to close the door. The opened door and castle heart creates the lock but somehow Twinblade E works without any issue. Note that the locked player can use Claw E or similar skills to get out of it.
+
 Counterplays:
 
 - Try to wait out the PvP combat debuff then unstuck.
