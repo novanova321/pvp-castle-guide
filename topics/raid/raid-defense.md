@@ -33,17 +33,13 @@ Counterplays:
 
 > If you have plenty of bombs, use 4 bombs instead of 3. This means you don't have to use your skills/autos to finish off the spawned golems. To be clear, bomb means major explosive not minor.
 
-## Focus Spawned Golems
+## Pull Apart
 
-Get bombs, transform to rat, put 3 bombs beside spawned golems, explode it then finish it off with skills. Your whole team can be dead for 150 seconds each but as long as there's no golem, that's okay. No golem = not a raid.
-
-You bomb placement matters since you want to hit a lot of spawned golems per bomb.
+Play at the back of the attackers and play the fastest build you can. The idea is to pull the attackers apart and if they decide to ignore you, just destroy their golems from the back.
 
 Counterplays:
 
-- Keep track of enemies
-- Frequently check the state of spawned golems
-- Spawn a ton of golems
+- Also play a fast build and send 2 players to make the kill faster
 
 ## Golem Slayer
 
