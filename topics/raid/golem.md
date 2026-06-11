@@ -51,7 +51,7 @@ Physical power and spell power is **locked to 50**. Golem does not crit. Attack 
 - [x] Mutant 1 - 10% Increased Shapeshift Speed.
 - [x] Mutant 4 - 7% Increased Veil Cooldown Rate for Roar (Space).
 - [x] Creature 2 - 8% Increased Shapeshift Speed.
-- [x] Creature 3 - 8% 20 increased All Resistances [^2]
+- [x] Creature 3 - 20 increased All Resistances [^2]
 
 > Note that stats like health regeneration still affects the vampire that is inside the golem but it does not affect the golem's shield hp at all.
 
