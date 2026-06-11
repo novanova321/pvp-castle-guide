@@ -12,7 +12,7 @@
 
 ### Physical, Spell, Health & Healing
 
-Physical power and spell power is **locked to 50**. All golem skils does not do a critical hit. Attack speed does not work because each golem auto attack has a cooldown of 0.8s. Health and healing affects the vampire inside the golem but does nothing for the actual golem hp.
+Physical power and spell power is **locked to 50**. Golem does not crit. Attack speed does not work because each golem auto attack has a cooldown of 0.8s. Health and healing affects the vampire inside the golem but does nothing for the actual golem hp.
 
 ### Speed
 
