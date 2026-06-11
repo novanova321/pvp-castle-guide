@@ -37,6 +37,10 @@ Counterplays:
 
 Play at the back of the attackers and play the fastest build you can. The idea is to pull the attackers apart and if they decide to ignore you, just destroy their golems from the back.
 
+You don't really have to be super fast, you just need to almost impossible to kill.
+
+Great strategy if one defender is so much better compared to the attackers.
+
 Counterplays:
 
 - Also play a fast build and send 2 players to make the kill faster
