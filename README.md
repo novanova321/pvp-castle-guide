@@ -8,25 +8,24 @@ What's in this guide:
 
 - basic information regarding everything related to castles and castle raiding
 - a clear explanation on why things are done in a certain way
-- assessment on all 146 plots and rankings
-- complete guide on how to make the best PvP castle possible
+- an assessment of all 146 plots and their rankings
+- a complete guide to building the best possible PvP castle
 - basic servant composition recommendations
 - complete guide on how castle raiding works
-- strategies to defend a castle
-- strategies to raid a castle
+- strategies for defending a castle
+- strategies for raiding a castle
 
 What is <ins>NOT</ins> in here:
 
 - pvp builds to use in raids
 - team composition recommendations
 
-> If there's is something in this guide that you feel needs more explanation, message me in discord: nova_nova.
+> If there is something in this guide that you feel needs more explanation, message me in discord: nova_nova.
 
 <details>
 <summary><strong>About me</strong></summary>
-My name is nova and I have 13,715 hours in this game <i>so far</i>. Most of my time are spent in open world pvp servers where castle raiding is the ultimate test of skill. I have built thousands of castles throughout all versions of the game, and played and hosted hundreds and hundreds of raid practices. At the moment, I spend my time managing my server, <a href="https://discord.gg/AAbPDd6ynh">CASA'NOVA</a>, and participating at raid practices in <a href="https://discord.gg/varena">V Arena</a>.<br/><br/>
-Despite all of that, I am fully aware that I will never know everything about the game. I still experiment, change, and test my designs on almost a daily basis. I am very open to learn from other players regardless of their level of commitment with the game so feel free to message me on discord:<b>nova_nova<b> or join my discord server <a href="https://discord.gg/AAbPDd6ynh">CASA'NOVA</a>.
-
+My name is nova and I have 13,715 hours in this game <i>so far</i>. Most of my time is spent in open world pvp servers where castle raiding is the ultimate test of skill. I have built thousands of castles throughout all versions of the game, and played and hosted hundreds and hundreds of raid practices. At the moment, I spend my time managing my server, <a href="https://discord.gg/AAbPDd6ynh">CASA'NOVA</a>, and participating at raid practices in <a href="https://discord.gg/varena">V Arena</a>.<br/><br/>
+Despite all of that, I am fully aware that I will never know everything about the game. I still experiment, change, and test my designs on almost a daily basis. I am very open to learning from other players regardless of their level of commitment to the game so feel free to message me on Discord: <b>nova_nova<b> or join my Discord server <a href="https://discord.gg/AAbPDd6ynh">CASA'NOVA</a>.<br/><br/>
 <a href="https://youtube.com/@nova_nova_nova">
     <img src="images/nova.png" width="50" />
 </a>
@@ -61,6 +60,7 @@ Despite all of that, I am fully aware that I will never know everything about th
 ## Raid
 
 - [Basics](topics/raid/raid-basics.md)
+- [Hiding Loot](topics/raid/hiding-loot.md)
 - [Golem](topics/raid/golem.md)
 - [Raid Defense](topics/raid/raid-defense.md)
 - [Raid Offense](topics/raid/raid-offense.md)

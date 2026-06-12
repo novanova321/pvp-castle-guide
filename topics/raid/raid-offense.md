@@ -104,6 +104,8 @@ Also, a shortcut can be made from mistakes with the castle construction. Knowing
 
 Shortcuts are harder to pull off in 2v2s since it's easier to track everyone's whereabouts.
 
+[Here's a sample video of Raid Shortcut](https://youtu.be/IFvb6vYm_og?t=132).
+
 Counterplays:
 
 - Be aware of the possible shortcuts in your castle. Keep track of attackers. Try your best to prevent it.
@@ -122,6 +124,8 @@ Counterplays:
 ## Rat Keying
 
 Best way to key a castle is to hide your presence first. You do not want to be seen and interrupted as it takes 10 seconds to finish interacting with the castle heart. Transforming to a rat hides your health bar and makes your model very small.
+
+It is usually best done by players with high level of game awareness. Understanding what each defender is doing or what they are thinking makes it much easier to recognize the ideal moment to slip in, transform to rat, and key the heart.
 
 Counterplays:
 

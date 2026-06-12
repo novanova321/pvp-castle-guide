@@ -14,7 +14,7 @@ Never use windows. Wall is fine but door is the best.
 
 Best way to delay the attackers from getting to top floor even if the castle is keyed. Assuming there's no teleporter that goes up.
 
-- Hedges - most annoying as it completely blocks the way
+- Hedges - most annoying as it completely blocks the way. [Here's a castle I raided that had a hedge fill](https://youtu.be/q8CEW4dvey0?t=716).
 - Storages - another annoying one especially if some of the storage have contents
 - Pools - decent and it prevents frog jumps
 
