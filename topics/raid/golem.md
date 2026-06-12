@@ -1,12 +1,13 @@
 ## Basic Golem Infos
 
-- needs 2 minutes 30 seconds to be ready
-- spawned golems despawns after 10 minutes
-- can be ridden for 5 minutes
-- hitting a player riding a golem does not give PvP combat debuff but taking damage from a golem does[^0]
-- can cancel skill animations as soon as it deals the damage
+- Needs <ins>2 minutes 30 seconds</ins> to be ready
+- Spawned golems despawns after 10 minutes
+- Can be ridden for 5 minutes
+- Hitting a player riding a golem does not give PvP combat debuff but taking damage from a golem does[^0]
+- Can cancel skill animations as soon as it deals the damage
 - Earthshatter (R) is the skill with the longest cast range
 - Earthshatter (R) can go through ponds (for some reason)
+- You can interact with the Castle Heart as a golem and there won't be clear animation for it. Regardless, you are stil 1 hit away from being interrupted.
 
 ## Stats that work while riding a golem
 

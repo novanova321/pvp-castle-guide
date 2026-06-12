@@ -113,6 +113,16 @@ Counterplays:
 
 - Quickly destroy the blockade before it can buy time.
 
+## Blockade Trap
+
+Similar to [Blockade](#blockade), the idea is to block a tight entrance but instead of keeping the players away, you are doing it to lock them in. Using explosives or EMPs, you can look for a tight exit then place the explosives without a gap. Unlike the defenders, the attackers has to completely back away if they wish to heal. The blockade will deny that.
+
+This is most effective when the enemies are very deep inside your castle.
+
+Counterplays:
+
+- Quickly destroy the blockade before you die or use Claw E or similar skill.
+
 ---
 
 ## No Rebreach For You

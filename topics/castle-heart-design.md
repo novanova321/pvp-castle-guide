@@ -19,11 +19,11 @@ The problem with this is it creates a corner where rat form can be harder to see
 
 ## Jungle Design
 
-Devised by me. This design involves sandwiching the Castle Heart with 2 straight stairs while adding as much stairs as possible and extending the safe places from 1st floor to 3rd floor. Each floor has multiple balconies to watch over the Castle Heart while allowing the defender to simply press Shift to easily jump down and interrupt any keyer.
+This design involves sandwiching the Castle Heart with 2 straight stairs while adding as much stairs as possible and extending the safe places from 1st floor to the upper floors. Each floor has multiple balconies to watch over the Castle Heart while allowing the defender to simply press Shift to easily jump down and interrupt any keyer.
 
 This design focuses on helping the defenders be elusive by spamming various shift+jumps from the different levels of the design. When used correctly, the attackers will be forced to clear all doors from all levels to eliminate all safe places.
 
-As of writing, I think it's the best design for Castle Hearts.
+As of writing, I think it's the best design for Castle Hearts. [Watch the proof of concept](https://www.youtube.com/watch?v=WYrvmhwpv9M)
 
 ---
 

@@ -21,6 +21,8 @@ But if it's made up of stone, you have to use a **siege golem**.
 
 Since siege golem is a hard requirement for stone castles, focusing on destroying spawned golems before they can ride it is a very strong defense strategy.
 
+> Pillars are not breachable. As a matter of fact, you can replace all your stone pillars with wooden pillars if you wish to save on some bricks.
+
 ## Breach Point
 
 aka initial breach target. It's best to avoid the door that is very close to the stairs or the funnel. The idea is to allow your team to go in and out without taking collateral damage from the attacks that are being directly at you.
