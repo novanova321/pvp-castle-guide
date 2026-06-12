@@ -19,6 +19,16 @@ Counterplays:
 
 - When spawning golems, scatter it far from the castle. The idea is to make them exposed and kill them if they wish to destroy your golems.
 
+## Open Doors by Default
+
+You generally want as much room to maneuver as possible, which is why most interior doors should be left open. Open doors also provide a much safer escape route during fights. Instead of risking death while trying to open a door, players can simply run through and close it behind them. This is especially valuable for high-ping players, as door interactions take longer and are more difficult to perform under pressure.
+
+The only doors that should remain closed at all times are edge doors that lead outside the castle or the doors that is used to lock a player. You never want attackers to push deep into your base and then use an already-open door to exit.
+
+Counterplays:
+
+- Deny their position by continously
+
 ## Rat Bombing
 
 Grab some bombs, transform into a rat, place three bombs next to the golems, explode it then finish it off with skills. Your whole team can be dead for 150 seconds each but as long as there's no golem, that's okay. No golem, no raid.
@@ -93,13 +103,16 @@ Counterplays:
 
 Take out at least one of the attackers by locking them inside your castle. Easily done using Twinblade E + Reaper Q. After locking an enemy inside, it's often best to take the fight outside. This allows you to force a favorable engagement while, more importantly, eliminating any spawned golems before they can threaten your castle. No golem, no raid.
 
+If the room where the player is trapped is close to your servant room, quickly open the servant room and eliminate the trapped player as soon as possible. You never want to be in a situation where you have to release a locked player just to free your servants and bring them into the fight.
+
 There's a trick with an opened double-hinged door and a Castle Heart wherein you can simply do Twinblade E on anyone close enough and they will be stuck without needing to close the door. The opened door and Castle Heart creates the lock but somehow Twinblade E works without any issue. Note that the locked player can use Claw E or similar skills to get out of it.
 
 Counterplays:
 
-- Try to wait out the PvP combat debuff then unstuck.
+- Try to wait out the PvP combat debuff then unstuck
 - Tell your team is to start threatening the castle by riding the golems. The room you are locked in is most likely a very important angle for the defenders. You are actively denying them that room by being there. This threat can be enough to force the defenders to open your door or deal with you instead which in turn buys time for the golems to breach the castle.
-- Drop a red bag and transform to rat then hide yourself using the red bag. The defenders might think you unstucked and just open the door.
+- Bait the defenders by dropping a red loot bag, transforming into a rat, and hiding beneath it. They may assume you used Unstuck, prompting them to open the door and give you an opportunity to escape.
+- Strike a deal or ask to be set free
 
 > To be honest, this strategy is one of the strongest and easiest to do. Inform your team right away if you get locked so they can adjust their play.
 
@@ -150,7 +163,7 @@ Counterplays:
 
 ## Deny Castle Under Attack
 
-Similar to [Harder Rebreach](#harder-rebreach), the idea is to break your own castle to deny the enemies from triggering castle under attack. See an isolated pillar or exposed servant coffin? Quickly bomb it or lure any mob that can help you break it.
+Similar to [Harder Rebreach](#harder-rebreach), the idea is to break your own castle to deny the enemies from triggering castle under attack. See an isolated pillar or exposed servant coffin? Quickly bomb it or lure any mob that can help you break it. Bombing does not trigger castle under attack.
 
 Leaving clan to destroy your own castle then re-join is an exploit.
 
