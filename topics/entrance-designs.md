@@ -10,7 +10,7 @@ The main purpose of an entrance design is to prevent your castle from being brea
 
 It is a strong strategy but ultimately fails on the higher level of play since enemies can just use daytime to summon and wait for golems to cook. Doing a sunbase also means reducing the size of the castle which makes raiding a lot quicker.
 
-If the plot is naturally a sunbase, go through with it. Otherwise, having more doors before heart is better than having a sunbase.
+If the plot is naturally a sunbase, go through with it. Otherwise, having more doors before Castle Heart is better than having a sunbase.
 
 ## Stairs or no stairs at the entrance
 
@@ -66,7 +66,7 @@ Commonly done using L stairs on plots with 2 levels. By putting L stairs on the 
 
 Always make sure that there are no ways to bypass your entrances. Look out for frog jumps, neighboring castles, glitches, and rock formations beside your castle. If you're not confident, it's best to ask someone that had meaningful experience on your chosen plot.
 
-Your entrance design would be useless if enemy can just frog jump all the way to the castle heart.
+Your entrance design would be useless if enemy can just frog jump all the way to the Castle Heart.
 
 ---
 

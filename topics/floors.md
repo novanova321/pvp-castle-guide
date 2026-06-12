@@ -2,7 +2,7 @@
 
 Crypt Flooring for servants room only affects the time it takes to convert a servant. It does not lower the servant's respawn timer of 10 minutes.
 
-Floors near the castle heart should be easy on the eyes to spot rats that is trying to key it.
+Floors near the Castle Heart should be easy on the eyes to spot rats that is trying to key it.
 
 ## Colors
 

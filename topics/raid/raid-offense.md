@@ -30,7 +30,7 @@ It's also good to choose a corner where you can do [splash damage](#golem-splash
 ## Typical Raid Flow
 
 1. <ins>**Get a breach**</ins>
-2. <ins>**Dig into the castle until castle heart is exposed**[^2]</ins>
+2. <ins>**Dig into the castle until Castle Heart is exposed**[^2]</ins>
 3. <ins>**Key the castle**</ins>
 
 ## Clearing Servants
@@ -46,12 +46,12 @@ Counterplays:
 
 ## EZ Key
 
-Straight to the final step. If you can find a way to get to the castle heart with a key without getting a breach, that's the easiest way to win. This means you always have to inspect the castle you're raiding before you actually do it.
+Straight to the final step. If you can find a way to get to the Castle Heart with a key without getting a breach, that's the easiest way to win. This means you always have to inspect the castle you're raiding before you actually do it.
 
 Counterplays:
 
 - [Secure your castle](security.md)
-- Hide near your castle heart, wait for the enemy to start keying then kill them. Free key.
+- Hide near your Castle Heart, wait for the enemy to start keying then kill them. Free key.
 
 ## EZ Breach
 
@@ -94,11 +94,11 @@ Counterplays:
 
 ## Raid Shortcut
 
-A shortcut is a shorter route to get to the castle heart. It usually involves attacking from the side or from the back and jumping your way into those positions. You can do a temporary castle relocation if the shortcut requires a neighboring castle.
+A shortcut is a shorter route to get to the Castle Heart. It usually involves attacking from the side or from the back and jumping your way into those positions. You can do a temporary castle relocation if the shortcut requires a neighboring castle.
 
 How it usually goes: Force a breach. Use the shortcut.
 
-Not all castles have a shortcut. Do this if you are bored of the normal way of raiding or if you are just feeling crafty and want to show-off. Parkouring your way into the castle heart can be fun.
+Not all castles have a shortcut. Do this if you are bored of the normal way of raiding or if you are just feeling crafty and want to show-off. Parkouring your way into the Castle Heart can be fun.
 
 Also, a shortcut can be made from mistakes with the castle construction. Knowing the exact distance of Arctic Leap, frog jump and mist trance helps identify shortcuts as they appear.
 
@@ -123,14 +123,14 @@ Counterplays:
 
 ## Rat Keying
 
-Best way to key a castle is to hide your presence first. You do not want to be seen and interrupted as it takes 10 seconds to finish interacting with the castle heart. Transforming to a rat hides your health bar and makes your model very small.
+Best way to key a castle is to hide your presence first. You do not want to be seen and interrupted as it takes 10 seconds to finish interacting with the Castle Heart. Transforming to a rat hides your health bar and makes your model very small.
 
-It is usually best done by players with high level of game awareness. Understanding what each defender is doing or what they are thinking makes it much easier to recognize the ideal moment to slip in, transform to rat, and key the heart.
+It is usually best done by players with high level of game awareness. Understanding what each defender is doing or what they are thinking makes it much easier to recognize the ideal moment to slip in, transform to rat, and key the Castle Heart.
 
 Counterplays:
 
-- Use floors that allows you to see rats easily (avoid using dark colored floors around the castle heart)
-- Heigthen your hearing. If you hear someone transforing into a rat, quickly clear the area around castle heart.
+- Use floors that allows you to see rats easily (avoid using dark colored floors around the Castle Heart)
+- Heigthen your hearing. If you hear someone transforing into a rat, quickly clear the area around Castle Heart.
 
 ## Common Attacker Misplays
 
@@ -145,7 +145,7 @@ Counterplays:
 
 [^1]: Destroying a door frame by breaking the supporting pillar does not count. You have to target the door frame only.
 
-[^2]: Dig means to destroy everything in the path to the castle heart. Rebreach when necessary.
+[^2]: Dig means to destroy everything in the path to the Castle Heart. Rebreach when necessary.
 
 ---
 

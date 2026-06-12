@@ -211,7 +211,7 @@
 ![plot 102](../../images/territories/territory-102.png)
 
 - narrow stairs entrance in east
-- bridge entrance in northwest via plot 103
+- bridge entrance in northwest via Plot 103
 - 15-doors deep from east
 - 7-doors deep from bridge
 - can jump to plot from bridge in the east
@@ -222,7 +222,7 @@
 ![plot 103](../../images/territories/territory-103.png)
 
 - narrow stairs entrance in southeast
-- bridge entrance in southwest via plot 102
+- bridge entrance in southwest via Plot 102
 - 10-doors deep from southeast
 - 19-doors deep from bridge
 - pair with Plot 102
@@ -282,7 +282,7 @@
 ![plot 120](../../images/territories/territory-120.png)
 
 - too open
-- can jump from the ledges below plot 119
+- can jump from the ledges below Plot 119
 
 ## Plot Directory
 

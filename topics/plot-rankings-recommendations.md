@@ -3,7 +3,7 @@
 A good plot...
 
 1. has a **single narrow chokepoint**. A single narrow entrance to the plot that allows defenders to focus all [castle defenses](castle-defenses.md) in one spot making it very challenging for attackers to go through and take control of. This is usually in the form of stairs or a bridge.
-2. is **deep**. Long distance between outside and the plot's castle heart. Deep plots requires the attackers to break a lot of layers of the castle which inherently means a lot of time. Long raid means it's expensive to raid and plenty of chances to successfully defend it. I will measure the depth of a plot by counting the number of doors needed for an attacker to key the castle: "20-doors deep".
+2. is **deep**. Long distance between outside and the plot's Castle Heart. Deep plots requires the attackers to break a lot of layers of the castle which inherently means a lot of time. Long raid means it's expensive to raid and plenty of chances to successfully defend it. I will measure the depth of a plot by counting the number of doors needed for an attacker to key the castle: "20-doors deep".
 3. is **secure**. Adjacent plots cannot build a castle to jump at the back of your plot. No frog jumps or arctic leaps that can go to delicate sections of your plot. No nearby mountain or higher elevation that can be used to gain access to important parts of your plot.
 4. **fits an effective [entrance design](entrance-design.md)**. A plot **should not** have an exposed corner that can only be defended from one angle.
 5. is on an **ideal location**. A convenient plot is close to the areas you will be spending a lot of time in like Ruins of Mortium and Brighthaven City. The passive loot outside the plot that is dropped when factions fight each other is also a good factor to consider when looking for an ideal location. Even plots along the Carriage routes are worth to consider.
@@ -44,7 +44,7 @@ A good plot...
 
 My priority for these plots are their strength in raids.
 
-### If you are playing on a PvP server with castle heart limit set to 1
+### If you are playing on a PvP server with Castle Heart limit set to 1
 
 1. [**Dunley Plot 95**](regions/dunley.md#plot-95) - single narrow chokepoint, 32-doors deep, 99% secure, ideal location
 2. [**Dunley Plot 98**](regions/dunley.md#plot-98) - single narrow chokepoint, 20-doors deep, 99% secure, ideal location

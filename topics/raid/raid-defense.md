@@ -13,7 +13,7 @@ Counterplays:
 
 ## Box Out
 
-If you have at least 51% confidence in your team's ability to win an open world fight, go outside, fight but don't chase too much or trade lives. Just push them out until their spawned golems are exposed. Your main goal is here to clear the spawned golems instead of killing players. No golem = not a raid.
+If you have at least 51% confidence in your team's ability to win an open world fight, go outside, fight but don't chase too much or trade lives. Push them back until their golems are exposed. Your primary objective is to destroy the golems rather than secure player kills. No golem, no raid.
 
 Counterplays:
 
@@ -21,7 +21,7 @@ Counterplays:
 
 ## Rat Bombing
 
-Get bombs, transform to rat, put 3 bombs beside spawned golems, explode it then finish it off with skills. Your whole team can be dead for 150 seconds each but as long as there's no golem, that's okay. No golem = not a raid.
+Grab some bombs, transform into a rat, place three bombs next to the golems, explode it then finish it off with skills. Your whole team can be dead for 150 seconds each but as long as there's no golem, that's okay. No golem, no raid.
 
 You bomb placement matters since you want to hit a lot of spawned golems per bomb.
 
@@ -91,9 +91,9 @@ Counterplays:
 
 ## Kidnapper
 
-Take out at least one of the attackers by locking them inside your castle. Easily done using Twinblade E + Reaper Q. After locking an enemy inside, it's often best to take the fight outside. This allows you to force a favorable engagement while, more importantly, eliminating any spawned golems before they can threaten your castle. No golem = not a raid.
+Take out at least one of the attackers by locking them inside your castle. Easily done using Twinblade E + Reaper Q. After locking an enemy inside, it's often best to take the fight outside. This allows you to force a favorable engagement while, more importantly, eliminating any spawned golems before they can threaten your castle. No golem, no raid.
 
-There's a trick with an opened double-hinged door and a castle heart wherein you can simply do Twinblade E on anyone close enough and they will be stuck without needing to close the door. The opened door and castle heart creates the lock but somehow Twinblade E works without any issue. Note that the locked player can use Claw E or similar skills to get out of it.
+There's a trick with an opened double-hinged door and a Castle Heart wherein you can simply do Twinblade E on anyone close enough and they will be stuck without needing to close the door. The opened door and Castle Heart creates the lock but somehow Twinblade E works without any issue. Note that the locked player can use Claw E or similar skills to get out of it.
 
 Counterplays:
 
@@ -129,7 +129,7 @@ Counterplays:
 This strategy is to counter rebreaching. Most attackers prepare a [breachable](raid-offense.md#breachables) for rebreach by lowering its hp as much as possible. The idea is to break that low hp breachable before the breached state is over. There are many ways to do it:
 
 1. Use major bombs
-2. Use mobs (primal blood boss, blood golem, banshees, etc..)
+2. Use mobs (primal blood boss, blood golem, banshees, etc.)
 3. Position yourself around it to bait the attackers to break it by themselves
 
 The difference between rebreaching from a 1% door vs 100% door is huge.
@@ -146,21 +146,21 @@ Leaving clan to destroy your own castle then re-join is an exploit.
 
 Counterplays:
 
-- Expose a lot of pillars or open servant room or expose castle heart
+- Expose a lot of pillars or open servant room or expose Castle Heart
 - Let them repair but break it before it solidifies
 
 ---
 
 ## Key Interruptor
 
-This is when the castle heart is open and attackers are trying to key it. Interacting with castle heart requires <ins>**10 seconds**</ins> and any hit on the keyer cancels that interaction. Go to safe a place, watch over the castle heart, wait for a player to interact with it, hit them once, repeat. If you need to buy a lot of time, you can let the keyer interact for 5 seconds before making your move to cancel it. No need to rush, wait for the cooldown of your skills.
+This is when the Castle Heart is open and attackers are trying to key it. Interacting with Castle Heart requires <ins>**10 seconds**</ins> and any hit on the keyer cancels that interaction. Go to safe a place, watch over the Castle Heart, wait for a player to interact with it, hit them once, repeat. If you need to buy a lot of time, you can let the keyer interact for 5 seconds before making your move to cancel it. No need to rush, wait for the cooldown of your skills.
 
 Notable skills I've seen that are great for interrupting the keyer:
 
 1. Aegis with fear jewel - You only have to put aegis then get close to the keyer. The fear can interrupt.
 2. Sword Q - Interrupt while still moving.
 3. Claw E - Best skill to use to jump over to the other side of the heart.
-4. Death Knight - It can see rats can defend the heart for a longer time.
+4. Death Knight - It can see rats can defend the Castle Heart for a longer time.
 5. Void or Rain of Chaos with jewel that engulfs the area - Great area deny for a long period of time. Forces the keyer to key from another angle and to wait out or remove the chaos burn.
 
 You can also just threaten the keyer by getting close and they will likely cancel it themself to use a counter. You only need to do 1 hit regardless if it's a golem or if they are shielded. Do not overstay and take a lot of damage then die. Just 1 hit and out.
@@ -171,15 +171,15 @@ On a 1vX scenario, you should do this to buy time for your teammates to revive o
 
 Counterplays:
 
-- Do not give them a safe area to watch over the castle heart
+- Do not give them a safe area to watch over the Castle Heart
 - Bait them to go out and kill them first
-- Using rat form, interact with the heart from max range and away from the defender's line of sight
+- Using rat form, interact with the Castle Heart from max range and away from the defender's line of sight
 
 ## Dismantle Teleporters
 
 In reality, getting keyed does not mean it's over. You can still fight, win, and hold the fort for 10 minutes. To make it harder for attackers to get to your main floor, you can force them to go through your maze by dismantling all teleporters that goes straight to the top floor.
 
-In this scenario, having [fillers](../snake-maze.md#snake-fillers) in your maze makes it worth it. It delays the attackers by a lot and they cannot get ahead of you by using your teleporters.
+In this scenario, having [fillers](./snake-maze.md#snake-fillers) in your maze makes it worth it. It delays the attackers by a lot and they cannot get ahead of you by using your teleporters.
 
 > Though very few, I have seen raids that was fully defended even though it was keyed.
 
@@ -197,7 +197,7 @@ Counterplays:
 - Not keeping track of the wall/door hp leading to the castle being breached while servants are still alive
 - Repairing the doors that are too close to the enemies
 - Chasing too far and too long instead of clearing golems
-- Getting too distracted while castle heart is exposed then a rat secretly keys it
+- Getting too distracted while Castle Heart is exposed then a rat secretly keys it
 
 [^1]: Go in as a golem, use Stomp (E), run out, wait for Stomp cooldown, repeat.
 
@@ -205,4 +205,4 @@ Counterplays:
 
 ---
 
-<sub>[Back to Home](../../README.md)</sub>
+<sub>[Back to Home](././README.md)</sub>

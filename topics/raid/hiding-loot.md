@@ -4,7 +4,7 @@ Mostly done in official servers when the defenders cannot see a way to win or in
 
 ## Vampire Box
 
-**Cannot be looted.** 14 inventory slots. 1 per castle. On squads, a player can have 2 castles. If you have a squad, split into 4 solos and have 2 castle heart each. That's 4 \* 2 \* 14 = 112 inventory slots.
+**Cannot be looted.** 14 inventory slots. 1 per castle. On squads, a player can have 2 castles. If you have a squad, split into 4 solos and have 2 Castle Heart each. That's 4 \* 2 \* 14 = 112 inventory slots.
 
 ## Loot Locking
 

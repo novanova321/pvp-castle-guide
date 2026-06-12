@@ -1,6 +1,6 @@
 ## Garden
 
-Garden can really be on any floor of your castle. As long as it's not on the path to the castle heart, it's good.
+Garden can really be on any floor of your castle. As long as it's not on the path to the Castle Heart, it's good.
 
 Make your garden pretty. It boosts morale.
 

@@ -57,7 +57,7 @@
 - 15-doors deep from the north
 - 9-doors deep from Plot 9
 - 3-doors deep from Plot 8
-- jumpable: Plot 8 and plot 9
+- jumpable: Plot 8 and Plot 9
 - pair with Plot 9
 
 ## Plot 17[^1]
@@ -140,7 +140,7 @@
 - 9-doors deep from east
 - 9-doors deep from west
 - 5-doors deep from northeast corner
-- can horse jump from northeast of plot 19
+- can horse jump from northeast of Plot 19
 - can jump from southwest half-stairs
 - can bat land to the southern edges of the plot
 - jumpable: Plot 19
@@ -157,7 +157,7 @@
 ![plot 35](../../images/territories/territory-35.png)
 
 - too open
-- jumpable: Plot 34 and plot 56
+- jumpable: Plot 34 and Plot 56
 
 ## Plot 36[^1]
 
@@ -166,8 +166,8 @@
 - narrow stairs entrance in north
 - narrow stairs entrance in southwest
 - wide half-stairs entrance in south
-- 6 doors from castle heart from east
-- jumpable: Plot 37 and plot 38
+- 6 doors from Castle Heart from east
+- jumpable: Plot 37 and Plot 38
 
 ## Plot 37[^1]
 
@@ -177,7 +177,7 @@
 - 12-doors deep
 - 6-doors deep from Plot 36
 - 2-doors deep from Plot 38
-- jumpable: Plot 36 and plot 38
+- jumpable: Plot 36 and Plot 38
 
 ## Plot 38[^1]
 
@@ -185,7 +185,7 @@
 
 - wide stairs entrance if defense starts at the 2nd level
 - 13-doors deep
-- jumpable: Plot 36 and plot 37
+- jumpable: Plot 36 and Plot 37
 - can bat land on east edges of the plot
 
 ## Plot 51[^1]

@@ -46,7 +46,7 @@
 - 20-doors deep from north
 - jumpable: Plot 115
 - can bat land inside the plot in the west side (beside the stairs)
-- can leap inside the plot in the west side (beside the stairs) from plot 112
+- can leap inside the plot in the west side (beside the stairs) from Plot 112
 - can jump on the ledges besdide the northeast stairs
 - can jump on the ledges on the mountains in the northwest
 
@@ -125,7 +125,7 @@
 - 7-doors deep from north
 - 7-doors deep from south
 - jumpable: Plot 127
-- can jump to plot from the south entrance of plot 127
+- can jump to plot from the south entrance of Plot 127
 - can bat land on the whole west side of the plot
 
 ## Plot 127[^1]
@@ -254,7 +254,7 @@
 - wide stairs entrance
 - 21-doors deep
 - 8-doors deep from Plot 142
-- jumpable: Plot 141 and plot 142
+- jumpable: Plot 141 and Plot 142
 
 ## Plot 144[^1]
 

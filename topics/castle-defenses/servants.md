@@ -49,7 +49,7 @@ Servants also don't idle on tiles without foundation. You can intentionally remo
 
 ### Location
 
-If the attackers has to go straight to get to the castle heart, put the servants on the left or right of the [pit](../entrance-designs.md#fighting-pit). Try not to reduce the castle's depth by putting the servant room in the way to the heart.
+If the attackers has to go straight to get to the Castle Heart, put the servants on the left or right of the [pit](../entrance-designs.md#fighting-pit). Try not to reduce the castle's depth by putting the servant room in the way to the heart.
 
 You never want the servant room too far from the pit that they don't even get aggroed when you open the door.
 

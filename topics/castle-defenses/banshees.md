@@ -4,7 +4,7 @@ Requires 15 minutes per banshees. The time can be adjusted by the server setting
 
 On plots with 2 levels, it is best located right after the stairs that goes to the 2nd level. You want to make it hard for the attackers to fight them. The stairs will make a natural funnel which makes it easy for banshees to hit their fears. It is also possible to setup a [trap](../entrance-designs.md#stairs-corner-trap) if the enemy decides to jump on the side of the stairs.
 
-If plot has only 1 level, banshees are best located near the castle heart to serve as a warning that the enemy are close to the castle heart.
+If plot has only 1 level, banshees are best located near the Castle Heart to serve as a warning that the enemy are close to the Castle Heart.
 
 Banshees fits on a 2x4 or a 2x2+2 room. Grouping them together in one big room makes them more effective compared to dividing them into two rooms of 6.
 

@@ -10,7 +10,7 @@
 
 - narrow stairs entrance in north
 - open side in east
-- heart at west
+- Castle Heart at west
   - 10-doors deep from stairs entrance
   - 9-doors deep from the open side in east
   - 2-doors deep from Plot 2
@@ -76,7 +76,7 @@
 - 20-doors deep from entrance
 - 2-doors deep from Plot 15
 - 10-doors deep from Plot 14
-- jumpable: Plot 14 and plot 15
+- jumpable: Plot 14 and Plot 15
 
 ## Plot 14
 
@@ -175,7 +175,7 @@
 - servants can be placed to cover all entrances
 - 15-doors deep from north
 - 10-doors deep from south
-- 6-doors deep after frog jump in a corner near the heart
+- 6-doors deep after frog jump in a corner near the Castle Heart
 - jumpable: Plot 30
 
 ## Plot 30[^1]
@@ -187,8 +187,8 @@
 - servants can be placed to cover all entrances
 - 12-doors deep from north
 - 12-doors deep from south
-- 6-doors deep from a frog jump in a corner near the heart
-- jumpable: Plot 30
+- 6-doors deep from a frog jump in a corner near the Castle Heart
+- jumpable: Plot 29
 
 ## Plot 39[^1]
 

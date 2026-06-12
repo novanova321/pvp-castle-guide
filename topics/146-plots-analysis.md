@@ -7,16 +7,16 @@ To avoid explaining concepts repeatedly, I'll use the following terms:
 - **99% secure**
   - Once you have secured the obvious entrances, you have nothing else to worry about. 1% is for the bugs. No one is safe vs bugs.
 - **_N_-doors deep**
-  - aka [Castle Depth](castle-depth.md). The amount of doors along the shortest path to castle heart.
+  - aka [Castle Depth](castle-depth.md). The number of doors along the shortest path to the Castle Heart.
 
-    > Note that heart placement, stairs placement, servant room location and banshees room location greatly affect a castle's depth.
+    > Note that Castle Heart placement, stairs placement, servant room location and banshees room location greatly affect a castle's depth.
 
-    > Another note, it requires a pretty experienced player to quickly figure out the shortest route to the heart. Most of the time, attackers just break what's in front of them then correct themselves little by little.
+    > Another note, it requires a pretty experienced player to quickly figure out the shortest route to the Castle Heart. Most of the time, attackers just break what's in front of them then correct themselves little by little.
 
 - **jumpable**
   - This means you can bring bombs/key then frog jump[^1] between the two plots given a certain condition.
 - pair with Plot <number>
-  - the plot mentioned has to be an ally or the plot will be hard to defend
+  - The mentioned plot must belong to an ally, otherwise the plot will be difficult to defend.
 
 > Whenever you see a "can jump" or "can leap", there's a chance it's preventable using stairs or EMPs/explosives.
 
