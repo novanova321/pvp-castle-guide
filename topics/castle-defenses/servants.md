@@ -41,6 +41,8 @@ Never choose a servant that deals fire damage because fire is neutral and burns 
 
 2x2 box. You can use hedges or any decoration to block some areas of the room to prevent servants from idling where they won't see the enemy.
 
+Always check if the door being opened blocks the exit of servants.
+
 ### Floor
 
 Crypt flooring <ins>does not</ins> make servant respawn any faster than 10 minutes. It only affects the servant convert rate.

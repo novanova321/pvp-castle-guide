@@ -14,9 +14,9 @@ If the plot is naturally a sunbase, go through with it. Otherwise, having more d
 
 ## Stairs or no stairs at the entrance
 
-Use stairs (most of the time). The only time you should remove stairs is when you have an overwhelming damage (AoE spells) coming from the sides that can only be casted if there are no stairs.
+Use stairs (most of the time). The only time you should remove stairs is when you have an overwhelming damage coming from the sides that can only be casted if there are no stairs.
 
-Having stairs forces the golem to go inside the fighting pit. The side railings makes the stairs more slender hence making it more deadly. The downside is that the stairs can be hit by the golem to reset the Castle Under Attack timer.
+Having stairs forces the golem to go inside the fighting pit. The side railings makes the stairs more slender hence making it more deadly. The downside is that the stairs can be hit by the golem to reset the Castle Under Attack timer back to 1 minute.
 
 Meanwhile, having no stairs lets the golem do a big damage on your outmost door without much commitment. It also keeps the naturally wide ramp allowing attackers to have more room to easily dodge attacks while on it. As a silver lining, it at least allows ground target spells to be casted on it like Void, Bone Explosion, Rain of Chaos, etc.
 

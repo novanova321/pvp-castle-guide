@@ -12,6 +12,8 @@ A box castle is the simplest and easiest way to be 99% secure. No side doors, no
 
 When making a starter castle, there should always be a minimum of 2 doors between the outside world and the inside of your castle. At any time of the day, a rat can be hiding at your outmost door waiting for you to open it so they can sneak inside and grab all your loot.
 
+[Here's a video of me setting up an airlock.](https://youtu.be/_Aro0uTvG4o?t=605)
+
 ## Teleporters
 
 As soon as you unlock Domina the Blade Dancer, use red teleporter to travel between outside and inside of your castle. There should be no need to open and close doors anymore.

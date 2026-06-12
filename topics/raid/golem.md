@@ -8,6 +8,7 @@
 - Earthshatter (R) is the skill with the longest cast range
 - Earthshatter (R) can go through ponds (for some reason)
 - You can interact with the Castle Heart as a golem and there won't be clear animation for it. Regardless, you are stil 1 hit away from being interrupted.
+- Spawning a golem directly on top a teleporter makes the teleporter unusable (you can do this with explosives/EMP too)
 
 ## Stats that work while riding a golem
 

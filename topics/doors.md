@@ -26,17 +26,13 @@ Double-hinged door like `Verdant Gate` is better because:
 
 <ins>**Always always always use servant locked doors**</ins>. Servants can be lured and tricked to open/close non-servant locked doors.
 
+On doors near the Castle Heart, I often use doors without servant lock. The bright red lock indicator creates a visual clutter and can help conceal a rat, whereas a cleaner-looking door makes them much easier to spot.
+
 > This is one of the most fun way to rob a castle.
 
-Always check if the door being opened blocks the exit of servants.
+## Castle Edges
 
-Always put a door and a foundation after stairs. Do not make stairs a dead-end as it only hurts the defenders if they cannot use the stairs to run and hide from.
-
-Always use doors even on the edges of your castle. If you can go in the middle of a door and close it, that's already a safe place to fully heal.
-
-## Tricks
-
-You can use a door without servant lock and a matching wallpaper to make it harder to find the correct door.
+Always use doors even on the edges of your castle. If you can go in the middle of a door and close it, that's a safe place to fully heal.
 
 ---
 

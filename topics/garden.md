@@ -16,6 +16,10 @@ Twinblade Q is the best harvester of flowers. You can easily harvest up to 9 til
 
 Burning your garden with Morning Star Q will not make use of the added loot from your bat leather bag and worker blood.
 
+## Hidden within the flowers
+
+If you place a small storage chest and then plant blood rose underneath it, the flower will eventually grow taller than the chest. Once fully bloomed, the blood roses obscure much of the chest, making it an effective hidden stash. During raid defense, you can use the same trick to conceal your rat form among the flowers while sneaking close enough to bomb enemy golems.
+
 ## Open world gardens
 
 - Copper mine (hell's clarion)
