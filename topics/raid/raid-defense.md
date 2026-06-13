@@ -15,6 +15,8 @@ Counterplays:
 
 If you have at least 51% confidence in your team's ability to win an open world fight, go outside, fight but don't chase too much or trade lives. Push them back until their golems are exposed. Your primary objective is to destroy the golems rather than secure player kills. No golem, no raid.
 
+Even having just one player doing this will raise your chances of succesfully defending by a lot. [Here's a video of me doing it for a bit.](https://youtu.be/mthj9VkBMxs?t=1578)
+
 Counterplays:
 
 - When spawning golems, scatter it far from the castle. The idea is to make them exposed and kill them if they wish to destroy your golems.
@@ -35,6 +37,8 @@ Grab some bombs, transform into a rat, place three bombs next to the golems, exp
 
 You bomb placement matters since you want to hit a lot of spawned golems per bomb.
 
+[Here's a video of my first time rat bombing (June 2023).](https://www.youtube.com/watch?v=nZ_nlH8JO1U)
+
 Counterplays:
 
 - Keep track of enemies
@@ -45,21 +49,27 @@ Counterplays:
 
 ## Pull Apart
 
-Play at the back of the attackers and play the fastest build you can. The idea is to pull the attackers apart and if they decide to ignore you, just destroy their golems from the back.
+Play at the back of the attackers and play the fastest build you can. The idea is to pull the attackers far apart from each other and if they decide to ignore you, just destroy their golems from the back.
 
-You don't really have to be super fast, you just need to almost impossible to kill.
+You don't really have to be super fast, you just need to be almost impossible to kill.
 
-Great strategy if one defender is so much better compared to the attackers.
+Great strategy if one defender is so much better (skill-wise) compared to the attackers.
 
 Counterplays:
 
-- Also play a fast build and send 2 players to make the kill faster
+- Also play a fast build and send 2 players to make the kill faster.
 
 ## Golem Slayer
 
 Using a very high damage output build, sit inside the castle, wait for a golem to come in, dish out all your damage and kill it as fast as possible. High damage output builds are generally bad at chasing so consider that when deciding if you should chase or not.
 
-It works best if you also kill the player right after. This strategy is busted on Official servers due to golem hp being low.
+It works best if you also kill the golem rider right after. This strategy is busted on Official servers due to golem hp being low.
+
+If you have Arctic Leap, time your ultimate just before the golem breaks. Freezing the rider in a vulnerable position makes them much easier to focus down and kill. You can also just use Spear Q.
+
+[Here's a crazy video of me and my friends doing this strategy vs the whole server.](https://youtu.be/qVic-I318DI?t=1837)
+
+[Here's an actual Golem Slayer.](https://www.youtube.com/shorts/mZjxL79SSS0)
 
 Counterplays:
 

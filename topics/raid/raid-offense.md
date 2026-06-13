@@ -25,7 +25,7 @@ Since siege golem is a hard requirement for stone castles, focusing on destroyin
 
 ## Breach Point
 
-aka initial breach target. It's best to avoid the door that is very close to the stairs or the funnel. The idea is to allow your team to go in and out without taking collateral damage from the attacks that are being directly at you.
+aka initial breach target. The [breachable](#breachables) you want to focus on to trigger a breach. On a typical [fighting pit](../entrance-designs.md#fighting-pit), it's best to avoid the door that is very close to the stairs or the funnel. The idea is to allow your team to go in and out without taking collateral damage from the attacks that are meant for you.
 
 It's also good to choose a corner where you can do [splash damage](#golem-splash-damage) to have multiple breach points.
 
