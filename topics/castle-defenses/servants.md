@@ -17,6 +17,11 @@ Best castle defense however if they cannot see the enemies, they are useless.
 - Priests - big heals and summons "floating orbs" that can hold players and golems into place
 - Vipers - big damage and can throw an aoe on lower levels
 
+### Special mentions
+
+- Lesser Nightmaiden - does not push out, always plays at the back
+- Bellringer - only servant that does not attack
+
 ## 8 Servants
 
 Quick recommendations:

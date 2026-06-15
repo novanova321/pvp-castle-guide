@@ -19,7 +19,7 @@ If it's made up of wood, you can breach using:
 
 But if it's made up of stone, you have to use a **siege golem**.
 
-Since siege golem is a hard requirement for stone castles, focusing on destroying spawned golems before they can ride it is a very strong defense strategy.
+Since siege golems are required to breach stone castles, defenders will often prioritize destroying spawned golems. To keep the raid going, you need to bring a lot and spawn a lot throughout the siege. No golem, no raid.
 
 > Pillars are not breachable. As a matter of fact, you can replace all your stone pillars with wooden pillars if you wish to save on some bricks.
 
@@ -29,6 +29,8 @@ aka initial breach target. The [breachable](#breachables) you want to focus on t
 
 It's also good to choose a corner where you can do [splash damage](#golem-splash-damage) to have multiple breach points.
 
+When switching golem rider, the breach point must be communicated to avoid starting on a completely healthy breach point again.
+
 ## Typical Raid Flow
 
 1. <ins>**Get a breach**</ins>
@@ -37,13 +39,14 @@ It's also good to choose a corner where you can do [splash damage](#golem-splash
 
 ## Clearing Servants
 
-Get the servants out of the way as soon as possible.
+Get the servants out of the way as soon as possible. They take 10 minutes to respawn and revive can only be started if the castle is not on any state.
 
-Place 3-5 siege golems. Send one golem in for the sole purpose of baiting the servants to come out. They take 10 minutes to respawn and revive can only be started if the castle is not on any state.
+At the start of the raid, place 3-5 siege golems. Send one golem in for the sole purpose of baiting the servants to come out. Once they are out, you can use 2-3 bombs to kill servants quickly or just focus them one by one.
 
 Counterplays:
 
 - Release the servants to push the attackers out so you can repair. Don't release if not needed. Keep track of the door hp.
+- If they are using bombs, explode it before the servants get close
 - Start revive as soon as possible
 
 ## EZ Key
@@ -61,11 +64,11 @@ Fastest way to do step 1. Find an exposed wood wall / door / door frame, [breach
 
 Counterplays:
 
-- [Replace all wood things with stone](security.md#palisades)
+- [Upgrade all wooden structures with stone](security.md#palisades)
 
 ## Golem Splash Damage
 
-When using the golem's Earthshatter (R) up close, you can hit multiple doors at once. This lets you have multiple [breach points](#breach-point). Hitting a combination of doors and walls is also ideal since it takes longer to repair various types of breachables and most of the time it is overlooked.
+When using the golem's Earthshatter (R) up close, you can hit multiple doors at once. This lets you have multiple [breach points](#breach-point). Hitting a combination of doors and walls is also ideal since it takes longer to repair various types of breachables and it is prone to being overlooked.
 
 Counterplays:
 
@@ -86,7 +89,7 @@ Counterplays:
 
 ## Golem Train
 
-Best way to brute force a breach. Spawn a ton of golems, have a lot of golem riders and go in 1 by 1 without stopping until castle is breached. This is the more aggressive version of [Hit and Run](#hit-and-run) since it requires more golem riders. Best done after clearing servants.
+Best way to brute force a breach. Spawn a ton of golems, have a lot of golem riders and go in 1 by 1 without stopping until castle is breached, like a train. This is the more aggressive version of [Hit and Run](#hit-and-run). Best done after clearing servants.
 
 If the defenders are lacking damage, you can go in with multiple golems at once.
 
@@ -144,6 +147,8 @@ Counterplays:
 - Pushing and getting locked
 - Not checking the state of the spawned golems
 - Getting lost around the castle and breaking the wrong doors
+- Multiple golem riders not hitting the same door
+- Not looking for the lowest hp breachable for rebreach
 
 [^1]: Destroying a door frame by breaking the supporting pillar does not count. You have to target the door frame only.
 

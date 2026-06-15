@@ -90,14 +90,16 @@ Counterplays:
 
 Keep track of the castle under attack timer. Whenever it goes down to 0, quickly repair all damaged [breachable](raid-offense.md#breachables). This resets the attacker's raid progress back to 0.
 
-The best and fastest way to repair a breachable is to replace it with a different design instead of dismantling then putting it back. If there's so many things to repair, focus on securing your heart, then spamming doors on empty door frames.
+The best and fastest way to repair a breachable is to replace it with a different design instead of dismantling then putting it back. For stone walls, repair them by replacing it with window wall and vice-versa. If there's so many things to repair, focus on securing your heart, then spamming doors on empty door frames.
+
+If enemies are inside the castle when breach timer is almost done, try to find a tight entrance where you can spam wall to lock them in.
 
 Aside from repairing breachables, you can also revive all servants.
 
 Counterplays:
 
 - never let the Castle Under Attack timer go down to 0
-- whenever a breachable is repaired, you have 5 seconds to instantly break it to before it solidifies
+- whenever a breachable is repaired, you have 5 seconds to instantly break it before it solidifies
 
 ## Favorable Fight
 
