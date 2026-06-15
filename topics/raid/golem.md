@@ -14,7 +14,10 @@
 
 ### Physical, Spell, Health & Healing
 
-Physical power and spell power is **locked to 50**. Golem crit chance and crit damage is also locked. Attack speed does not work because each golem auto attack has a cooldown of 0.8s. Health and healing affects the vampire inside the golem but does nothing for the actual golem hp.
+Physical power and spell power is **locked to 50**. Attack speed does not work because each golem auto attack has a cooldown of 0.8s. Health and healing affects the vampire inside the golem but does nothing for the actual golem hp.
+
+- [x] Physical Critical Chance [^5]
+- [x] Physical Critical Power [^5]
 
 ### Speed
 
@@ -43,6 +46,7 @@ Physical power and spell power is **locked to 50**. Golem crit chance and crit d
 ### Blood
 
 - [x] Rogue 3 - 14% Increased Veil Cooldown Rate for Roar (Space).
+- [x] Rogue 4 - 50% Chance on Critical Strike to expose victims armor, increasing damage from all sources by 15% for 4s.
 - [x] Warrior 2 - 14% Increased Weapon Cooldown Rate for Slam (Q) and Stomp (E).
 - [x] Warrior 3 - 24% Increased damage when striking enemies at full health. [^1]
 - [x] Corrupted 2 - Reduces the maximum amount of Vile Corruption[^4] stacks by 4-8 but you suffer 50%-100% Increased Blood drain rate.
@@ -104,6 +108,8 @@ If your sole purpose is to be the golem rider, I recommend this [Creature Brute 
 [^3]: There are very few instances where a golem can get crowd controlled.
 
 [^4]: There are no plots that gives Vile Corruption stacks. It is only at Stavros, Lucile, Dantos and Megara areas.
+
+[^5]: Crit only works when hitting units (players, mobs).
 
 ---
 
