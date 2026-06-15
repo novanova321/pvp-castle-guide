@@ -2,6 +2,8 @@
 
 Castle Heart design focuses on the elements or the lack of elements around the Castle Heart that aims to help the defenders interrupt anyone trying to key it.
 
+**One Rule:** The door closest to the Castle Heart should be the _only_ route to the Castle Heart. Attackers should have no alternative paths or parkour routes that allow them to bypass that door and reach the Castle Heart.
+
 ## Endgame
 
 Obviously, the reason that the attackers are on the Castle Heart is because the defenders failed to prevent a breach and failed on preventing the attackers from advancing through the castle. The winner is usually decided at this stage, thus why I call it the endgame. In the endgame, the intentions of both sides can be surmised as following:

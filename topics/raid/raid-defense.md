@@ -111,7 +111,7 @@ Counterplays:
 - Fight alongside the golem as it can still be effective vs players.
 - Be good enough to handle unfair fights until the castle is breached. There's no need to win, only need to survive.
 
-## Kidnapper
+## Kidnapper / Fisherman
 
 Take out at least one of the attackers by locking them inside your castle. Easily done using Twinblade E + Reaper Q. After locking an enemy inside, it's often best to take the fight outside. This allows you to force a favorable engagement while, more importantly, eliminating any spawned golems before they can threaten your castle. No golem, no raid.
 
