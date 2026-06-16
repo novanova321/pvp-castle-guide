@@ -117,6 +117,10 @@ Take out at least one of the attackers by locking them inside your castle. Easil
 
 If the room where the player is trapped is close to your servant room, quickly open the servant room and eliminate the trapped player as soon as possible. You never want to be in a situation where you have to release a locked player just to free your servants and bring them into the fight.
 
+If already breached, drag the fish deeper into your castle and leave them clawing multiple doors if they don't want to unstuck.
+
+[Here's a video of me catching a fish and dragging it deeper.](https://youtu.be/rRIJDTSHiPo?t=2554)
+
 There's a trick with an opened double-hinged door and a Castle Heart wherein you can simply do Twinblade E on anyone close enough and they will be stuck without needing to close the door. The opened door and Castle Heart creates the lock but somehow Twinblade E works without any issue. Note that the locked player can use Claw E or similar skills to get out of it.
 
 Counterplays:
@@ -169,6 +173,8 @@ This strategy is to counter rebreaching. Most attackers prepare a [breachable](r
 
 The difference between rebreaching from a 1% door vs 100% door is huge.
 
+[Here's a video where I did bombed the lowest hp door.](https://youtu.be/rRIJDTSHiPo?t=2063)
+
 Counterplays:
 
 - Prepare multiple breachables for rebreach
@@ -178,6 +184,8 @@ Counterplays:
 Similar to [Harder Rebreach](#harder-rebreach), the idea is to break your own castle to deny the enemies from triggering castle under attack. See an isolated pillar or exposed servant coffin? Quickly bomb it or lure any mob that can help you break it. Bombing does not trigger castle under attack.
 
 Leaving clan to destroy your own castle then re-join is an exploit.
+
+[Here's a video of me bombing a pillar so they cannot use it to trigger Castle Under Attack later.](https://youtu.be/rRIJDTSHiPo?t=2446)
 
 Counterplays:
 
