@@ -97,6 +97,14 @@ Counterplays:
 
 - Kill the golem riders or destroy the spawned golems before they can ride it.
 
+## Widening the Exit
+
+For a smoother fight after a breach, avoid leaving a narrow staircase as the only exit. Instead of rushing straight to the Castle Heart, take a moment to widen the area around the stairs. The easiest way to do this is by breaking the doors adjacent to the staircase, giving your team more room to maneuver and fight.
+
+Counterplays:
+
+- nothing
+
 ## Raid Shortcut
 
 A shortcut is a shorter route to get to the Castle Heart. It usually involves attacking from the side or from the back and jumping your way into those positions. You can do a temporary castle relocation if the shortcut requires a neighboring castle.
@@ -109,7 +117,9 @@ Also, a shortcut can be made from mistakes with the castle construction. Knowing
 
 Shortcuts are harder to pull off in 2v2s since it's easier to track everyone's whereabouts.
 
-[Here's a sample video of Raid Shortcut](https://youtu.be/IFvb6vYm_og?t=132).
+[Here's an example video of a Raid Shortcut.](https://youtu.be/IFvb6vYm_og?t=132).
+
+[Here's a Raid Shortcut within the castle.](https://youtu.be/ukiTYV73wCo?t=972).
 
 Counterplays:
 
@@ -121,6 +131,8 @@ Counterplays:
 It is common for raids to fail due to lack of golems or the defenders fully repairing while attackers are busy getting more supplies. The idea is to look for a nearby hidden place then drop a red bag full of raid supplies. Red bag lasts for **45 minutes**. Instead of travelling all the way home to resupply, you just go to your hidden red bag.
 
 This is a very risky play that really depends how good the hiding place is.
+
+[Here's a video of me setting up a raid supply stash.](https://youtu.be/j2hSsGhUDAY?t=101)
 
 Counterplays:
 
@@ -149,6 +161,10 @@ Counterplays:
 - Getting lost around the castle and breaking the wrong doors
 - Multiple golem riders not hitting the same door
 - Not looking for the lowest hp breachable for rebreach
+- Skipping doors when digging then getting locked
+- Running out of golem hp while in the middle of the enemy
+- Spending too much time doing PvP while in golem form
+- Not clearing the area near the Castle Heart leading to constant interference from the nearby doors
 
 [^1]: Destroying a door frame by breaking the supporting pillar does not count. You have to target the door frame only.
 

@@ -27,6 +27,8 @@ You generally want as much room to maneuver as possible, which is why most inter
 
 The only doors that should remain closed at all times are edge doors that lead outside the castle or the doors that is used to lock a player. You never want attackers to push deep into your base and then use an already-open door to exit.
 
+[Here's a video of me opening doors by default.](https://youtu.be/Aniw6fH1zkI?t=560)
+
 Counterplays:
 
 - Deny their position by continously
@@ -237,10 +239,12 @@ Counterplays:
 
 - Not repairing when you can
 - Not repairing **all** damaged walls/doors
-- Not keeping track of the wall/door hp leading to the castle being breached while servants are still alive
+- Not keeping track of the breach point hp leading to the castle being breached while servants are still alive
 - Repairing the doors that are too close to the enemies
+- Unnecessarily replacing doors that are already repaired
 - Chasing too far and too long instead of clearing golems
 - Getting too distracted while Castle Heart is exposed then a rat secretly keys it
+- Getting hit by an obvious golem Stomp (E)
 
 [^1]: Go in as a golem, use Stomp (E), run out, wait for Stomp cooldown, repeat.
 
