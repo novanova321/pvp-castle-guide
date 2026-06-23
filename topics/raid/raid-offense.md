@@ -138,6 +138,22 @@ Counterplays:
 
 - If you feel like the attackers are re-supplying too fast, try checking some nearby corners and maybe you'll find a red bag.
 
+## Civil War
+
+The idea is to make the castle defenses clear each other like making banshees fight the servants by opening their respective rooms and aggroing them to each other. This is only doable if the castle design permits.
+
+Counterplays:
+
+- Use your castle defenses before breach or put them far from each other
+
+## Circle Robber
+
+Most defenders leave the materials for summoning Stygian Circle mobs in the station. The idea is to rob those materials if ever they leave the door open or after you get a breach.
+
+Counterplays:
+
+- Store the materials on a different room that is close to the summoning circle.
+
 ## Rat Keying
 
 Best way to key a castle is to hide your presence first. You do not want to be seen and interrupted as it takes 10 seconds to finish interacting with the Castle Heart. Transforming to a rat hides your health bar and makes your model very small.
@@ -165,6 +181,7 @@ Counterplays:
 - Running out of golem hp while in the middle of the enemy
 - Spending too much time doing PvP while in golem form
 - Not clearing the area near the Castle Heart leading to constant interference from the nearby doors
+- Using Golem Roar (Space) when you are about to get off of golem form which leads to a ~30 sec cooldown on your dash
 
 [^1]: Destroying a door frame by breaking the supporting pillar does not count. You have to target the door frame only.
 
